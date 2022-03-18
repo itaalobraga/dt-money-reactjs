@@ -1,0 +1,12 @@
+{
+  "transactions": [
+    {
+      "title": "qwe",
+      "amount": 123,
+      "type": "withdraw",
+      "category": "qweqw",
+      "createdAt": "18/03/2022",
+      "id": 1
+    }
+  ]
+}
